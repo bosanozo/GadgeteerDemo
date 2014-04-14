@@ -111,10 +111,10 @@ namespace GadgeteerDemo
          */
         private const string SSID = "Buffalo-G-87E0";
         private const string PASSWD = "3hytvyhxtt4rv";
-        private const string DST_ADDR = "207.46.134.203";
+        private const string DST_ADDR = "168.63.153.243";
 
         // サービス共通HOST行
-        private const string HOST_LINE = " HTTP/1.1\r\nHOST: aroma-black.cloudapp.net\r\n";
+        private const string HOST_LINE = " HTTP/1.1\r\nHOST: mamezou-esec.cloudapp.net\r\n";
         // 重さ取得サービスURL
         private const string GET_WEIGHT_URL = "GET /WeightRestWCFService.svc/latestweight" + HOST_LINE;
         // 重さ登録サービスURL
