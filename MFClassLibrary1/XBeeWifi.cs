@@ -109,10 +109,15 @@ namespace GadgeteerDemo
         private const string SSID = "MZ400_1";
         private const string PASSWD = "1223334444";
          */
+        // Xperiaテザリング
+        //private const string SSID = "Xperia UL_8dad";
+        //private const string PASSWD = "c7e29d478e31";
+        // Wifiルータ
         private const string SSID = "Buffalo-G-87E0";
         private const string PASSWD = "3hytvyhxtt4rv";
-        private const string DST_ADDR = "168.63.153.243";
 
+        // 接続サーバIPアドレス
+        private const string DST_ADDR = "168.63.153.243";
         // サービス共通HOST行
         private const string HOST_LINE = " HTTP/1.1\r\nHOST: mamezou-esec.cloudapp.net\r\n";
         // 重さ取得サービスURL

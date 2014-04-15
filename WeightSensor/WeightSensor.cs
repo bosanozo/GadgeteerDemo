@@ -29,7 +29,7 @@ namespace GadgeteerDemo
         /// <summary>
         /// ‚PŒÂ‚Ìd‚³
         /// </summary>
-        const short WeightPerQuantity = 9;
+        const short WeightPerQuantity = 10;
         #endregion
 
         #region private•Ï”
